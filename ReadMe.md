@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Lucas sou Desenvolvedor Front_End;<br>Estou procurando migrar de carreira para a programação como DEV Front_End Jr.;<br>Procuro o meu primeiro emprego na programação. 
+Meu nome é Lucas sou Desenvolvedor Front_End Jr;<br>Estou procurando migrar de carreira para a programação como DEV Front_End Jr.;<br>Procuro o meu primeiro emprego na programação. 
 
 
 ## 🌐 Socials:
