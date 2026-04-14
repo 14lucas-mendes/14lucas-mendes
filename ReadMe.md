@@ -104,7 +104,7 @@ Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão 
 2026  ████░░░░░░░░  GraphQL · Docker · MongoDB · Firebase · Deploy · DevOps
 ```
 
-> Sou desenvolvedor **Front-End sênior em formação**, construindo ativamente minha base fullstack.  
+> "Desenvolvedor Front-End buscando minha primeira oportunidade na área, com foco em crescer para o Full Stack..  
 > Busco oportunidades onde possa contribuir no front enquanto evoluo no backend.
 
 ---
