@@ -1,103 +1,87 @@
 <div align="center">
 
-# Olá, sou Lucas Silva Mendes 👋
+<!-- Banner animado com nome -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=200&section=header&text=Lucas%20Mendes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20→%20Full%20Stack%20in%20progress&descAlignY=58&descSize=18&descColor=93c5fd&animation=fadeIn" />
 
-### Desenvolvedor Front-End | React · TypeScript · Next.js
+</div>
 
-*Construindo interfaces acessíveis, confiáveis e fáceis de manter*
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-mendes-5318101a7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckajw@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/14lucas-mendes)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=14lucas-mendes&color=0077B5&style=flat-square&label=Visitas+ao+perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendes-5318101a7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasmendes814)
+[![Portfolio](https://img.shields.io/badge/🚀_nice--gadgets-live_demo-1e40af?style=for-the-badge)](https://nice-gadgets-eta.vercel.app)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
-Sou desenvolvedor front-end focado em criar interfaces que funcionam de verdade — **acessíveis, performáticas e fáceis de manter**.
+Sou desenvolvedor **Front-End** em transição para **Full Stack**, com foco em construir produtos que resolvem problemas reais.
 
-Antes de escrever código, passei **mais de 14 anos como técnico na CPTM**, operando sistemas elétricos críticos onde falha não é opção. Essa experiência moldou minha abordagem ao desenvolvimento: cada componente precisa ser testado, cada fluxo pensado, cada entrega documentada.
+Tenho background como **Técnico Ferroviário** — uma área que me ensinou precisão, documentação e trabalho com sistemas críticos. Essa visão técnica de campo me diferencia na hora de pensar em produto, UX e arquitetura de software.
 
-Hoje aplico essa mentalidade no front-end: código confiável não é luxo, é requisito.
+Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão de contratos para pequenas empresas — enquanto aprofundo minha stack fullstack.
 
-```typescript
-const lucas = {
-  localização:   "Suzano, São Paulo 🇧🇷",
-  stack:         ["React", "TypeScript", "Next.js", "Tailwind CSS"],
-  estudando:     ["Testes com Jest", "Acessibilidade Web (WCAG)", "Node.js"],
-  background:    "Técnico em sistemas críticos → Dev Front-End",
-  disponível:    true,
-};
+```
+📍 Brasil  |  💼 Aberto a oportunidades Front-End  |  🔭 Migrando para Full Stack
 ```
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Projeto em Destaque
 
-**Front-End**
+### [Nice Gadgets — E-commerce de Eletrônicos](https://nice-gadgets-eta.vercel.app)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+> Plataforma completa de e-commerce com catálogo de produtos, carrinho, favoritos e tema dark/light.
 
-**Ferramentas & Versionamento**
+**Stack:** `Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Radix UI`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Destaques técnicos:**
+- App Router com Server e Client Components separados por responsabilidade
+- State management com Context API (carrinho + favoritos com persistência em localStorage)
+- API Routes próprias com paginação, filtro e ordenação
+- Configuração profissional: ESLint, Prettier, Husky (git hooks)
+- Deploy automatizado na Vercel
+
+[![Ver Projeto](https://img.shields.io/badge/🌐_Live_Demo-nice--gadgets-1e40af?style=for-the-badge)](https://nice-gadgets-eta.vercel.app)
+[![Ver Código](https://img.shields.io/badge/GitHub-Repositório-0f172a?style=for-the-badge&logo=github)](https://github.com/14lucas-mendes/nice-gadgets)
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Tecnologias
 
-### 🛍️ Nice Gadgets — E-commerce de eletrônicos
-> Loja virtual completa com catálogo de produtos, carrinho, favoritos e navegação por categorias.
+### ✅ Domino
 
-**Stack:** TypeScript · React · React Router · Sass  
-**Destaques:** Arquitetura de componentes reutilizáveis, gerenciamento de estado com Context API, layout responsivo.
+<div>
 
-[![Repositório](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/14lucas-mendes/nice-gadgets)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
----
+</div>
 
-### 📝 The Blog — Plataforma de conteúdo
-> Blog moderno construído com Next.js e React, com renderização server-side e rotas dinâmicas.
+### 📚 Aprendendo / Em progresso
 
-**Stack:** TypeScript · Next.js · React  
-**Destaques:** SSR com Next.js, tipagem forte com TypeScript, estrutura de projeto escalável.
+<div>
 
-[![Repositório](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/14lucas-mendes/the-blog-next-react)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
----
-
-### 🎮 2048 Game — Jogo clássico em JavaScript
-> Implementação do jogo 2048 com lógica completa de movimentação, pontuação e detecção de fim de jogo.
-
-**Stack:** JavaScript · HTML · CSS  
-**Destaques:** Lógica de grid pura em JS, manipulação de DOM, animações CSS.
-
-[![Repositório](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/14lucas-mendes/js_2048_game)
-
----
-
-### 🌐 Landing Page — Layout responsivo
-> Página de destino com foco em pixel-perfect e responsividade em múltiplos breakpoints.
-
-**Stack:** JavaScript · HTML · CSS  
-**Destaques:** Fidelidade ao design, layout adaptativo, boas práticas de semântica HTML.
-
-[![Repositório](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/14lucas-mendes/layout_landing-page)
+</div>
 
 ---
 
@@ -105,46 +89,38 @@ const lucas = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=14lucas-mendes&theme=default&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14lucas-mendes&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=14lucas-mendes&theme=default&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=14lucas-mendes&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14lucas-mendes&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
 ---
 
-## 🧠 O que estou aprendendo agora
+## 🗺️ Roadmap — Front-End → Full Stack
 
-- ⚙️ Testes unitários e de integração com **Jest** e **React Testing Library**
-- ♿ Acessibilidade web (**WCAG 2.1** — AA)
-- 🌐 Back-end básico com **Node.js** e **REST APIs**
-- 📐 Padrões de arquitetura front-end (**Clean Architecture**, **Feature-Sliced Design**)
+```
+2024  ████████████  HTML · CSS · JS · React · TypeScript · Next.js · Tailwind
+2025  ████████░░░░  Node.js · NestJS · PostgreSQL · Supabase · Testes (Jest/Zod)
+2026  ████░░░░░░░░  GraphQL · Docker · MongoDB · Firebase · Deploy · DevOps
+```
 
----
-
-## 💡 Um pouco mais sobre mim
-
-- 🚂 **14 anos na CPTM** — manutenção de sistemas elétricos críticos (subestações, seccionadoras)
-- 🧑‍🏫 **Ex-instrutor interno** — ministrei treinamentos técnicos para alunos aprendizes
-- 🔧 **Projeto No-Code na CPTM** — digitalizei inspeções de extintores em áreas de risco com app mobile
-- 📚 **Formação em andamento** — Mate Academy Brasil (TI, 2024–2025)
-- 📍 **Suzano, SP** — disponível para oportunidades remotas ou presenciais na Grande SP
+> Sou desenvolvedor **Front-End sênior em formação**, construindo ativamente minha base fullstack.  
+> Busco oportunidades onde possa contribuir no front enquanto evoluo no backend.
 
 ---
 
-## 📬 Vamos conversar?
+## 💡 O que me diferencia
 
-Estou aberto a oportunidades como **Desenvolvedor Front-End Júnior** — remoto ou presencial em São Paulo.
+- 🚂 **Background industrial** — Precisão, documentação técnica e visão de sistemas críticos da área ferroviária
+- 🏗️ **Projetos reais, não só exercícios** — Estou construindo produtos para resolver problemas do mundo real
+- 📖 **Aprendizado profundo** — Prefiro entender de verdade do que só copiar e colar
+- 🔗 **Conteúdo público** — Compartilho projetos e aprendizados no LinkedIn
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-mendes-5318101a7/)
-[![Email](https://img.shields.io/badge/Enviar_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckajw@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:0f172a&height=120&section=footer&animation=fadeIn" />
 
 </div>
 
