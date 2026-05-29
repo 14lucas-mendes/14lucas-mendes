@@ -3,6 +3,10 @@
 <!-- Banner animado com nome -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=200&section=header&text=Lucas%20Mendes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20→%20Full%20Stack%20in%20progress&descAlignY=58&descSize=18&descColor=93c5fd&animation=fadeIn" />
 
+<!-- SEO Tags -->
+![Profile Views](https://komarev.com/ghpvc/?username=14lucas-mendes&color=3b82f6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/14lucas-mendes?label=Seguidores&style=flat&color=3b82f6)
+
 </div>
 
 <div align="center">
@@ -10,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendes-5318101a7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasmendes814)
 [![Portfolio](https://img.shields.io/badge/🚀_nice--gadgets-live_demo-1e40af?style=for-the-badge)](https://nice-gadgets-eta.vercel.app)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckajw@gmail.com)
 
 </div>
 
@@ -21,7 +26,7 @@ Sou desenvolvedor **Front-End** em transição para **Full Stack**, com foco em 
 
 Tenho background como **Técnico Ferroviário** — uma área que me ensinou precisão, documentação e trabalho com sistemas críticos. Essa visão técnica de campo me diferencia na hora de pensar em produto, UX e arquitetura de software.
 
-Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão de contratos para pequenas empresas — enquanto aprofundo minha stack fullstack.
+Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de contratos para pequenas empresas (em desenvolvimento) — enquanto aprofundo minha stack fullstack.
 
 ```
 📍 Brasil  |  💼 Aberto a oportunidades Front-End  |  🔭 Migrando para Full Stack
@@ -46,6 +51,21 @@ Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão 
 
 [![Ver Projeto](https://img.shields.io/badge/🌐_Live_Demo-nice--gadgets-1e40af?style=for-the-badge)](https://nice-gadgets-eta.vercel.app)
 [![Ver Código](https://img.shields.io/badge/GitHub-Repositório-0f172a?style=for-the-badge&logo=github)](https://github.com/14lucas-mendes/nice-gadgets)
+
+---
+
+## 📁 Outros Projetos
+
+<div align="center">
+
+### 🔧 **Contrato Fácil** (Em desenvolvimento)
+> Plataforma de gestão de contratos para pequenas empresas
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL
+
+[![Ver Código](https://img.shields.io/badge/GitHub-Em%20Breve-6b7280?style=for-the-badge&logo=github)](https://github.com/14lucas-mendes)
+
+</div>
 
 ---
 
@@ -89,8 +109,15 @@ Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=14lucas-mendes&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14lucas-mendes&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=14lucas-mendes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14lucas-mendes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=14lucas-mendes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 </div>
 
@@ -99,13 +126,30 @@ Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão 
 ## 🗺️ Roadmap — Front-End → Full Stack
 
 ```
-2024  ████████████  HTML · CSS · JS · React · TypeScript · Next.js · Tailwind
-2025  ████████░░░░  Node.js · NestJS · PostgreSQL · Supabase · Testes (Jest/Zod)
-2026  ████░░░░░░░░  GraphQL · Docker · MongoDB · Firebase · Deploy · DevOps
+2025  ████████████  HTML · CSS · JS · React · TypeScript · Next.js · Tailwind
+2026  ████████░░░░  Node.js · NestJS · PostgreSQL · Supabase · Testes (Jest/Zod) · AI First Development
 ```
 
-> "Desenvolvedor Front-End buscando minha primeira oportunidade na área, com foco em crescer para o Full Stack..  
+> 💬 "Desenvolvedor Front-End buscando minha primeira oportunidade na área, com foco em crescer para o Full Stack.  
 > Busco oportunidades onde possa contribuir no front enquanto evoluo no backend.
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendes-5318101a7)
+[![Email](https://img.shields.io/badge/📧_Envie%20um%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckajw@gmail.com)
+
+</div>
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 **Português** — Nativo
+- 🇺🇸 **Inglês** — Técnico (em desenvolvimento)
 
 ---
 
@@ -122,6 +166,12 @@ Atualmente construindo o **[Contrato Fácil](#)** — uma plataforma de gestão 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:0f172a&height=120&section=footer&animation=fadeIn" />
 
+</div>
+
+---
+
+<div align="center">
+<sub>Feito com foco, consistência e muito café ☕ — assim como a manutenção de sistemas críticos.</sub>
 </div>
 
 ---
