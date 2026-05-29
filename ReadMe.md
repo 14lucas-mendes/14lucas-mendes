@@ -173,9 +173,3 @@ Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de co
 <div align="center">
 <sub>Feito com foco, consistência e muito café ☕ — assim como a manutenção de sistemas críticos.</sub>
 </div>
-
----
-
-<div align="center">
-<sub>Feito com foco, consistência e muito café ☕ — assim como a manutenção de sistemas críticos.</sub>
-</div>
