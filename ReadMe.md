@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=200&section=header&text=Lucas%20Mendes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20→%20Full%20Stack%20in%20progress&descAlignY=58&descSize=18&descColor=93c5fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=200&section=header&text=Lucas%20Mendes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20→%20Full%20Stack%20%2B%20IA%20em%20constru%C3%A7%C3%A3o&descAlignY=58&descSize=18&descColor=93c5fd&animation=fadeIn" />
 
 <!-- SEO Tags -->
 ![Profile Views](https://komarev.com/ghpvc/?username=14lucas-mendes&color=3b82f6&style=flat)
@@ -22,14 +22,14 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor **Front-End** em transição para **Full Stack**, com foco em construir produtos que resolvem problemas reais.
+Sou desenvolvedor **Front-End** em transição estruturada para **Full Stack + IA/Automações**, seguindo um roadmap próprio de 24 meses dividido em 5 fases.
 
-Tenho background como **Técnico Ferroviário** — uma área que me ensinou precisão, documentação e trabalho com sistemas críticos. Essa visão técnica de campo me diferencia na hora de pensar em produto, UX e arquitetura de software.
+Tenho background como **Técnico de Manutenção Ferroviária (CPTM)** — uma área que me ensinou precisão, documentação e trabalho com sistemas críticos. Essa visão técnica de campo me diferencia na hora de pensar em produto, UX e arquitetura de software.
 
-Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de contratos para pequenas empresas (em desenvolvimento) — enquanto aprofundo minha stack fullstack.
+Estou construindo um negócio freelance focado em **landing pages, automações com IA e agentes** para pequenos negócios, com objetivo de longo prazo em consultoria.
 
 ```
-📍 Brasil  |  💼 Aberto a oportunidades Front-End  |  🔭 Migrando para Full Stack
+📍 Brasil  |  💼 Aberto a oportunidades Front-End Jr  |  🔭 Trilha Full Stack + IA em andamento (Fase 1/5)
 ```
 
 ---
@@ -54,24 +54,27 @@ Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de co
 
 ---
 
-## 📁 Outros Projetos
+## 🗺️ Roadmap — Full Stack + IA e Automações
 
-<div align="center">
+**24 meses · 5 fases · 10 projetos planejados**
 
-### 🔧 **Contrato Fácil** (Em desenvolvimento)
-> Plataforma de gestão de contratos para pequenas empresas
+| Fase | Meses | Foco | Regra de IA no código |
+|---|---|---|---|
+| **1 — Fundamentos** ⬅️ *estou aqui* | 1–4 | Python + Algoritmos | 🚫 Zero IA |
+| 2 — Automação | 5–9 | n8n + Context Engineering | 🟡 IA gera esqueleto |
+| 3 — Arquitetura de Agentes | 10–14 | FastAPI + DDD + MCP | 🟢 IA gera boilerplate |
+| 4 — Full Stack TS | 15–20 | Next.js + SaaS | 🟢 IA gera UI |
+| 5 — Portfólio | 21–24 | Negócios com IA | 🟢 IA para negócio |
 
-**Stack:** React · TypeScript · Node.js · PostgreSQL
+Atualmente na **Fase 1**, com uma regra própria de não usar IA para gerar código — o foco é consolidar fundamentos de Python, POO, estruturas de dados e algoritmos de busca/ordenação antes de avançar.
 
-[![Ver Código](https://img.shields.io/badge/GitHub-Em%20Breve-6b7280?style=for-the-badge&logo=github)](https://github.com/14lucas-mendes)
-
-</div>
+> 📄 Roadmap completo com temas de estudo e projetos por fase disponível [aqui](#).
 
 ---
 
 ## 🛠️ Tecnologias
 
-### ✅ Domino
+### ✅ Domino (front-end, comprovado no nice-gadgets)
 
 <div>
 
@@ -86,20 +89,27 @@ Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de co
 
 </div>
 
-### 📚 Aprendendo / Em progresso
+### 📚 Em estudo agora (Fase 1 do roadmap)
 
 <div>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+</div>
+
+### 🔭 Próximas fases (2–4 do roadmap)
+
+<div>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -119,19 +129,14 @@ Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de co
 
 </div>
 
-</div>
-
 ---
 
-## 🗺️ Roadmap — Front-End → Full Stack
+## 💡 O que me diferencia
 
-```
-2025  ████████████  HTML · CSS · JS · React · TypeScript · Next.js · Tailwind
-2026  ████████░░░░  Node.js · NestJS · PostgreSQL · Supabase · Testes (Jest/Zod) · AI First Development
-```
-
-> 💬 "Desenvolvedor Front-End buscando minha primeira oportunidade na área, com foco em crescer para o Full Stack.  
-> Busco oportunidades onde possa contribuir no front enquanto evoluo no backend.
+- 🚂 **Background industrial** — Precisão, documentação técnica e visão de sistemas críticos da manutenção ferroviária
+- 🗺️ **Trilha estruturada e documentada** — Roadmap de 24 meses com regras próprias de uso de IA por fase, para garantir que o fundamento seja meu
+- 🏗️ **Projetos reais, não só exercícios** — nice-gadgets em produção; freelas de landing page e automação com clientes reais
+- 📖 **Aprendizado profundo** — Prefiro entender de verdade do que só copiar e colar
 
 ---
 
@@ -150,15 +155,6 @@ Atualmente construindo o **Contrato Fácil** — uma plataforma de gestão de co
 
 - 🇧🇷 **Português** — Nativo
 - 🇺🇸 **Inglês** — Técnico (em desenvolvimento)
-
----
-
-## 💡 O que me diferencia
-
-- 🚂 **Background industrial** — Precisão, documentação técnica e visão de sistemas críticos da área ferroviária
-- 🏗️ **Projetos reais, não só exercícios** — Estou construindo produtos para resolver problemas do mundo real
-- 📖 **Aprendizado profundo** — Prefiro entender de verdade do que só copiar e colar
-- 🔗 **Conteúdo público** — Compartilho projetos e aprendizados no LinkedIn
 
 ---
 
