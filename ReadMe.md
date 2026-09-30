@@ -32,7 +32,7 @@ Transforma um agente de código (Claude Code, Codex, Cursor, OpenCode) em um tut
 
 ### 🛒 [Nice Gadgets](https://github.com/14lucas-mendes/nice-gadgets): e-commerce de eletrônicos · [demo](https://nice-gadgets-eta.vercel.app)
 
-Projeto individual de front-end desenvolvido durante a formação na Mate Academy: catálogo com filtros, paginação, carrinho, favoritos e tema claro/escuro. É meu único projeto front-end até agora.
+Projeto individual de front-end desenvolvido durante a formação na Mate Academy: catálogo com ordenação e paginação, carrinho, favoritos e tema claro/escuro. Usa dados mockados e `localStorage`, sem backend. Criado em Next.js + Tailwind e refatorado para React com CSS Modules, como a formação exigia. É meu único projeto front-end até agora.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
