@@ -21,6 +21,8 @@ Estudo **Python aplicado a automação e assistentes de IA**.
 
 Transforma um agente de código (Claude Code, Codex, Cursor, OpenCode) em um tutor que acompanha o estudo ao longo do tempo, com currículo, lições, prática, revisão e registro de progresso baseado em evidências.
 
+**Meu papel:** concebi o projeto, defini os requisitos e o funcionamento da skill (ciclo de estudo, regras de aprendizagem, separação entre skill e dados do aluno). O código foi gerado com IA a partir dessas especificações, e eu conduzi e revisei o resultado.
+
 - Skill no padrão `SKILL.md`, portável entre agentes
 - Scripts em Python para inicializar e validar o estado dos estudos
 - Testes automatizados e CI com GitHub Actions
@@ -30,18 +32,20 @@ Transforma um agente de código (Claude Code, Codex, Cursor, OpenCode) em um tut
 
 ### 🛒 [Nice Gadgets](https://github.com/14lucas-mendes/nice-gadgets): e-commerce de eletrônicos · [demo](https://nice-gadgets-eta.vercel.app)
 
-Projeto individual de front-end desenvolvido durante a formação na Mate Academy: catálogo com filtros, paginação, carrinho, favoritos e tema claro/escuro.
+Projeto individual de front-end desenvolvido durante a formação na Mate Academy: catálogo com filtros, paginação, carrinho, favoritos e tema claro/escuro. É meu único projeto front-end até agora.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
 ---
 
-## 🛠️ O que já uso
+## 🛠️ Stack e nível
 
-**Linguagens e web:** Python · JavaScript · TypeScript · HTML · CSS
-**Front-end (formação Mate Academy):** React · Next.js · Tailwind CSS
+Sou iniciante em todas as tecnologias abaixo. Listei o que já tive contato prático:
+
+**Linguagens e web:** Python · JavaScript · TypeScript · HTML · CSS *(nível iniciante)*
+**Front-end (formação Mate Academy):** React · Next.js · Tailwind CSS *(um projeto: Nice Gadgets)*
 **Ferramentas:** Git · GitHub · GitHub Actions · VS Code / Cursor
-**IA:** Claude Code · Codex · criação de Agent Skills
+**IA:** Claude Code · Codex · criação de Agent Skills (especificação e direção)
 
 ---
 
